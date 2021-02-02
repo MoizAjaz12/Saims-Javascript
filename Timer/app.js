@@ -1,6 +1,6 @@
-var hour = +prompt("Enter hours");
-var min = +prompt("Enter mins");
-var sec = +prompt("Enter seconds");
+var hour = +prompt("Set hours");
+var min = +prompt("Set mins");
+var sec = +prompt("Set seconds");
 // var milli = 0;
 
 var a = document.getElementById("a");
